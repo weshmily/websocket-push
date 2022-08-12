@@ -1,0 +1,14 @@
+{
+    "main": "index.html",
+    "logo": "logo.png",
+    "preload": "preload.js",
+    "features": [
+        {
+            "code": "websocket推送",
+            "explain": "websocket推送",
+            "cmds": [
+                "websocket推送"
+            ]
+        }
+    ]
+}

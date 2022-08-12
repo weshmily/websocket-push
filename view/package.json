@@ -1,0 +1,12 @@
+{
+  "name": "analog-scoket",
+  "version": "1.0.0",
+  "description": "模拟webscoket服务推送",
+  "main": "preload.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
