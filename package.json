@@ -19,7 +19,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^20.0.1",
-    "electron-packager": "^15.5.1"
+    "electron-packager": "^17.1.0"
   },
   "dependencies": {
     "nodejs-websocket": "^1.7.2"
